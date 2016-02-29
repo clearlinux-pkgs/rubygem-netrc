@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-29 22:27:19.162471
+# {'~>0.7.7', '~>0.7'}
+watchurl=https://rubygems.org/gems/netrc/versions/(0\.[0-7](\.[0-9]{1,2})?)
