@@ -4,7 +4,7 @@
 #
 Name     : rubygem-netrc
 Version  : 0.10.3
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/netrc-0.10.3.gem
 Source0  : https://rubygems.org/downloads/netrc-0.10.3.gem
 Summary  : No detailed summary available
@@ -58,44 +58,21 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/netrc-0.10.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/%5b%5d%3d-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/%5b%5d-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/Error/cdesc-Error.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/cdesc-Netrc.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/check_permissions-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/config-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/configure-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/default_path-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/delete-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/each-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/home_path-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/length-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/lex-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/netrc_filename-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/new_item-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/new_item_prefix-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/parse-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/read-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/save-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/skip%3f-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/Netrc/unparse-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/netrc-0.10.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/LICENSE.md
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/Readme.md
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/changelog.txt
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/default_only.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/login.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/newlineless.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/password.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/permissive.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/sample.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/sample_multi.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/sample_multi_with_default.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/data/sample_with_default.netrc
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/lib/netrc.rb
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/test/test_lex.rb
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/test/test_netrc.rb
-/usr/lib64/ruby/gems/2.2.0/gems/netrc-0.10.3/test/test_parse.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/netrc-0.10.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/netrc-0.10.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/LICENSE.md
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/Readme.md
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/changelog.txt
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/default_only.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/login.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/newlineless.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/password.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/permissive.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/sample.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/sample_multi.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/sample_multi_with_default.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/data/sample_with_default.netrc
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/lib/netrc.rb
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/test/test_lex.rb
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/test/test_netrc.rb
+/usr/lib64/ruby/gems/2.3.0/gems/netrc-0.10.3/test/test_parse.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/netrc-0.10.3.gemspec
